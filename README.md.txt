@@ -1,0 +1,16 @@
+## Hey 👋, This is Vibha Hegde
+[![Gmail Badge](https://img.shields.io/badge/-vibhavinayak99@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vibhavinayak99@gmail.com)](mailto:vibhavinayak99@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/vibha-vhegde-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/vibha-vhegde/)](https://www.linkedin.com/in/www.linkedin.com/in/vibha-vhegde/) [![Github Badge](https://img.shields.io/badge/-https://github.com/Vibha1509/-grey?style=flat&logo=github&logoColor=white&link=https://github.com/https://github.com/Vibha1509//)](https://www.github.com/https://github.com/Vibha1509//) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://vibhavinayak99.wixsite.com/vibhahegde/)](https://vibhavinayak99.wixsite.com/vibhahegde/) <p align='left'>I have a background in computer science and a strong interest in data analysis, AI, and business intelligence. I enjoy working with data, finding patterns, and using insights to make better decisions. My goal is to use my skills to solve real-world problems and help businesses work more efficiently.
+
+I started my career as a Cyber Analyst at KPMG, where I worked with medical data and improved security and compliance for Sutter Health Hospitals. I created charts and KPIs to track important metrics and made reporting more accurate. I also led shift handovers and ensured smooth operations, reducing manual work and improving efficiency.
+
+To expand my skills, I built an AI Resume Ranking Tool that helps recruiters shortlist candidates faster. By using AI, I reduced candidate selection time by 10 times and improved recruiter engagement with personalized emails. I also worked as an intern at Collins Aerospace, where I developed a Productivity Dashboard in Tableau to track shop floor performance. I automated daily data processing tasks using Python, making workflows faster and more reliable.
+
+I am currently enrolled in the TripleTen Business Intelligence Analyst program, where I am learning more about Python, SQL, data visualization, and statistical analysis. I have also completed a No-Code AI course at Stanford, which helped me understand AI applications in business.
+
+I enjoy using data to tell stories and solve problems. Whether it is building dashboards, automating processes, or analyzing trends, I am always excited to learn and apply my skills to new challenges.</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1LHbehi9r26JziFsDiTbtkb6-_djfhMqrSbAbrZa7pyw/edit?usp=drive_link ' target=_blank><u>here</u>.</a></p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=https://github.com/Vibha1509/ alt=https://github.com/Vibha1509/ /> </p>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Vibha1509/&show_icons=true&include_all_commits=true)](https://github.com/https://github.com/Vibha1509//github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Vibha1509/&layout=compact)](https://github.com/https://github.com/Vibha1509//github-readme-stats)
